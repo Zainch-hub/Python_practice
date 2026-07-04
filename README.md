@@ -8,6 +8,7 @@ This repository contains my Python practice notebooks as I learn Python for Data
 - Tuples
 - Dictionaries
 - Sets
+- Conditions and Branching
 - Loops
 - Functions
 - File Handling
